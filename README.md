@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Johnny
 
-<!--
-**QWeDev/QWeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Emerging Frontend Developer
+- 👨‍💻 About Me: Self-teaching to become a frontend developer.
+- 🌍 Location: Austin, Tx.
+- 🌱 Learning: HTML, CSS, and JavaScript.
+- 🎯 2025 Goals: Contribute to open-source projects and build a personal website.
+- 🤝 Collaboration: Open
 
-Here are some ideas to get you started:
+<a href="https://www.github.com/QWeDev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/QWeDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+</p>
+
+## 📚 Current Learning Path
+
+I'm following a structured approach to frontend development, starting with the fundamentals and progressively tackling more complex concepts. I believe in learning by doing, which is why you'll see my repository filling up with projects as I practice new skills.
+
+- **Resource 1:** [GitHub Docs](https://docs.github.com/en)
+- **Resource 2:** [freeCodeCamp](https://www.freecodecamp.org/)
+- **Resource 3:** [Codeacademy](https://www.codecademy.com/)
+- **Resource 4:** [Scrimba](https://scrimba.com)
+- **Resource 5:** [W3School](https://www.w3schools.com/)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qwedev&show_icons=true&theme=radical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QWeDev&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
