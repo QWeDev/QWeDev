@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Johnny
+# 👋 Hello, I'm QWeDev
 
 ## 💻 Emerging Frontend Developer
 - 👨‍💻 About Me: Self-teaching to become a frontend developer.
@@ -35,4 +35,4 @@ I'm following a structured approach to frontend development, starting with the f
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/qwedev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
