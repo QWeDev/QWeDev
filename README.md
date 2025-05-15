@@ -23,14 +23,15 @@ src="https://img.shields.io/github/followers/QWeDev?logo=github&style=for-the-ba
 I'm following a structured approach to frontend development, starting with the fundamentals and progressively tackling more complex concepts. I believe in learning by doing, which is why you'll see my repository filling up with projects as I practice new skills.
 
 - **Resource 1:** [GitHub Docs](https://docs.github.com/en)
-- **Resource 2:** [The Odin Project](https://theodinproject.com)
-- **Resource 3:** [freeCodeCamp](https://www.freecodecamp.org/)
-- **Resource 4:** [Codeacademy](https://www.codecademy.com/)
-- **Resource 5:** [Scrimba](https://scrimba.com)
-- **Resource 6:** [W3School](https://www.w3schools.com/)
+- **Resource 2:** [Microsoft Learn](https://learn.microsoft.com/en-us/)
+- **Resource 3:** [The Odin Project](https://theodinproject.com)
+- **Resource 4:** [freeCodeCamp](https://www.freecodecamp.org/)
+- **Resource 5:** [Codeacademy](https://www.codecademy.com/)
+- **Resource 6:** [Scrimba](https://scrimba.com)
+- **Resource 7:** [W3School](https://www.w3schools.com/)
 
 ## 📜 Certifications
-- GitHub Foundations (In Progress)
+- GitHub Foundations ([In Progress](https://learn.microsoft.com/en-us/users/qwedev-3222/))
 
 ## 📊 GitHub Stats
 
