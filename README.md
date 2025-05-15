@@ -27,11 +27,13 @@ I'm following a structured approach to frontend development, starting with the f
 - **Resource 3:** [The Odin Project](https://theodinproject.com)
 - **Resource 4:** [freeCodeCamp](https://www.freecodecamp.org/)
 - **Resource 5:** [Codeacademy](https://www.codecademy.com/)
-- **Resource 6:** [Scrimba](https://scrimba.com)
+- **Resource 6:** [Scrimba](https://scrimba.com/)
 - **Resource 7:** [W3School](https://www.w3schools.com/)
+- **Resource 8:** [Udacity](https://www.udacity.com/)
 
 ## 📜 Certifications
 - GitHub Foundations ([In Progress](https://learn.microsoft.com/en-us/users/qwedev-3222/))
+- Nanodegree: Front End Web Development Fundamentals (Full Scholarship - [In Progress](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Enterprise%20Syllabi/Custom/OneTen-Frontend_Web_Development%20Fundamentals.pdf))
 
 ## 📊 GitHub Stats
 
