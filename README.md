@@ -29,6 +29,9 @@ I'm following a structured approach to frontend development, starting with the f
 - **Resource 5:** [Scrimba](https://scrimba.com)
 - **Resource 6:** [W3School](https://www.w3schools.com/)
 
+## 📜 Certifications
+- GitHub Foundations (In Progress)
+
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qwedev&show_icons=true&theme=radical)<br/>
