@@ -32,8 +32,8 @@ I'm following a structured approach to frontend development, starting with the f
 - **Resource 8:** [Udacity](https://www.udacity.com/)
 
 ## 📜 Certifications
-- GitHub Foundations ([In Progress](https://learn.microsoft.com/en-us/users/qwedev-3222/))
-- Nanodegree: Front End Web Development Fundamentals (Full Scholarship - [In Progress](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Enterprise%20Syllabi/Custom/OneTen-Frontend_Web_Development%20Fundamentals.pdf))
+- Nanodegree: Front End Web Development Fundamentals (Full Scholarship - [In Progress](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Enterprise%20Syllabi/Custom/OneTen-Frontend_Web_Development%20Fundamentals.pdf))  
+<a href="https://www.credly.com/badges/62159abd-2eee-43e3-b9c3-ba56f84e29e2/public_url"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" style="height: 160px;"></a>
 
 ## 📊 GitHub Stats
 
