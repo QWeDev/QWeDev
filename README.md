@@ -35,11 +35,6 @@ I'm following a structured approach to frontend development, starting with the f
 - Nanodegree: Front End Web Development Fundamentals (Full Scholarship - [In Progress](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Enterprise%20Syllabi/Custom/OneTen-Frontend_Web_Development%20Fundamentals.pdf))  
 <a href="https://www.credly.com/badges/62159abd-2eee-43e3-b9c3-ba56f84e29e2/public_url"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" style="height: 160px;"></a>
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qwedev&show_icons=true&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QWeDev&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/qwedev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
