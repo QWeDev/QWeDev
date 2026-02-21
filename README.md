@@ -1,7 +1,7 @@
 # 👋 Hello, I'm QWeDev
 
 ## 💻 Emerging Frontend Developer
-- 👨‍💻 About Me: Self-teaching to become a frontend developer.
+- 👨‍💻 About Me: Frontend developer with a mathematics and physics background.
 - 🌍 Location: Austin, Tx.
 - 🌱 Learning: HTML, CSS, and JavaScript.
 - 🎯 2025 Goals: Contribute to open-source projects and build a personal website.
