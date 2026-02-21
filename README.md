@@ -3,8 +3,7 @@
 ## 💻 Emerging Frontend Developer
 - 👨‍💻 About Me: Frontend developer with a mathematics and physics background.
 - 🌍 Location: Austin, Tx.
-- 🌱 Learning: HTML, CSS, and JavaScript.
-- 🎯 2025 Goals: Contribute to open-source projects and build a personal website.
+- 🎯 2026 Goals: Complete at least 10 web development projects.
 - 🤝 Collaboration: Open
 
 <a href="https://www.github.com/QWeDev" target="_blank" rel="noreferrer"><img
@@ -18,23 +17,9 @@ src="https://img.shields.io/github/followers/QWeDev?logo=github&style=for-the-ba
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
-## 📚 Current Learning Path
-
-I'm following a structured approach to frontend development, starting with the fundamentals and progressively tackling more complex concepts. I believe in learning by doing, which is why you'll see my repository filling up with projects as I practice new skills.
-
-- **Resource 1:** [GitHub Docs](https://docs.github.com/en)
-- **Resource 2:** [Microsoft Learn](https://learn.microsoft.com/en-us/)
-- **Resource 3:** [The Odin Project](https://theodinproject.com)
-- **Resource 4:** [freeCodeCamp](https://www.freecodecamp.org/)
-- **Resource 5:** [Codeacademy](https://www.codecademy.com/)
-- **Resource 6:** [Scrimba](https://scrimba.com/)
-- **Resource 7:** [W3School](https://www.w3schools.com/)
-- **Resource 8:** [Udacity](https://www.udacity.com/)
-
 ## 📜 Certifications
-- Nanodegree: Front End Web Development Fundamentals (Full Scholarship - [In Progress](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Enterprise%20Syllabi/Custom/OneTen-Frontend_Web_Development%20Fundamentals.pdf))  
 <a href="https://www.credly.com/badges/62159abd-2eee-43e3-b9c3-ba56f84e29e2/public_url"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" style="height: 160px;"></a>
 
-### Support Me
+### Patronage
 
 <a href="https://www.buymeacoffee.com/qwedev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
